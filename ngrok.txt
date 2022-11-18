@@ -1,0 +1,8 @@
+Script started on Sun Jun 19 18:38:42 2022
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? y
+[1m[7m%[27m[1m[0m                                                                [0m[27m[24m[J(base) martinl@martin NESH2022 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                [0m[27m[24m[J(base) martinl@martin NESH2022 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                [0m[27m[24m[J(base) martinl@martin NESH2022 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                [0m[27m[24m[J(base) martinl@martin NESH2022 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                [0m[27m[24m[J(base) martinl@martin NESH2022 % [K[?2004h
